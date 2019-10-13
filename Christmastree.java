@@ -7,7 +7,9 @@ public class Christmastree {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int n=5;
+		//Outer loop
 		for(int k=1;k<=4;k++){
+		//Inner loop
 		for(int i=0;i<n;i++){
 			
 			for(int j=n-i;j>1;j--){
